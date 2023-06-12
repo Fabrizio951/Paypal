@@ -24,4 +24,4 @@ STYLE.css:
 Definición de estilos generales: Se establecen estilos generales para el cuerpo (body) de la página, como el fondo y las fuentes.
 Estilos del formulario de compra: Se definen estilos para el contenedor del formulario (form-register), incluyendo su tamaño, fondo, margen y sombra. También se definen estilos para los campos de entrada (controls), estableciendo su ancho, fondo, borde y fuente.
 Estilos de la página de confirmación: Se definen estilos para el contenedor principal (contenedor), estableciendo su tamaño, fondo, margen y fuente. También se definen estilos para el título (h2) y el mensaje de agradecimiento (p), y se establecen estilos para el botón de volver (boton).
-En resumen, el proyecto utiliza archivos PHP, HTML, CSS y JavaScript para crear un formulario
+
