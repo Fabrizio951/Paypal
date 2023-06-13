@@ -4,13 +4,13 @@ Descripción del Proyecto:
 
 Este proyecto consiste en el desarrollo de un formulario para realizar compras a través de PayPal. A continuación, se describe el código y su funcionamiento en las diferentes partes del proyecto:
 
-![ERROR AL SUBIR LA IMAGEN](botimg/foto1.png)
+![ERROR AL SUBIR LA IMAGEN](paypalimg/foto1.png)
 
-![ERROR AL SUBIR LA IMAGEN](botimg/foto2.png)
+![ERROR AL SUBIR LA IMAGEN](paypalimg/foto2.png)
 
-![ERROR AL SUBIR LA IMAGEN](botimg/foto3.png)
+![ERROR AL SUBIR LA IMAGEN](paypalimg/foto3.png)
 
-![ERROR AL SUBIR LA IMAGEN](botimg/foto4.png)
+![ERROR AL SUBIR LA IMAGEN](paypalimg/foto4.png)
 
 1. Estructura del Código:
 
